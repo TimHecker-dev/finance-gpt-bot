@@ -1,4 +1,4 @@
-## Konfiguration und Sicherheitshinweis
+## Configuration and Security Notice
 
 **IMPORTANT:**  
 This project uses external API keys, which must be stored in the file `config.txt`.
