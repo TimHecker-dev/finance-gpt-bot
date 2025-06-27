@@ -17,7 +17,7 @@ Before running the application, install all required dependencies with:
 pip install -r requirements_chatbot.txt
 ```
 
-**How to Run the Application**
+## How to Run the Application
 You can start the Finance Chatbot using the following command in your terminal (adjust the path if necessary):
 
 `streamlit run c:\users\folder\finanz_chatbot.py`
