@@ -192,3 +192,7 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# === Eigene Ergänzungen: Sensible Konfigurationsdateien ignorieren ===
+config.txt
+config.env
