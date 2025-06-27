@@ -1,0 +1,9 @@
+# Example configuration for the Finance Chatbot
+# Enter your personal API keys below
+
+AZURE_OPENAI_API_KEY=
+AZURE_OPENAI_API_ENDPOINT=
+OPENAI_API_VERSION=
+NEWSAPI_KEY=
+OPENEXCHANGE_API_KEY=
+

@@ -1,0 +1,6 @@
+streamlit>=1.32
+openai>=1.0
+python-dotenv>=1.0
+yfinance>=0.2
+matplotlib>=3.7
+requests>=2.30
